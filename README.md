@@ -6,7 +6,7 @@ To run the script use:
 python3 2slitsim.py
 ```
 ## Screenshots
-![](assets/'Main Page.png')
+![](assets/MainPage.png)
 
 ![](assets/Params.png)
 
